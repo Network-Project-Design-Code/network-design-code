@@ -1,0 +1,23 @@
+
+
+-Bad attempt to authenticate from UserId=1001
+ , Password=pass
+ 
+
+
+-Bad attempt to authenticate from UserId=pass
+ , Password=pass
+ 
+
+
+-Bad attempt to authenticate from UserId=pass
+ , Password=pass
+ 
+
+
++GOOD attempt to authenticate from UserId=10000
+ , Password=myPass
+ 
+
+
+-Bad attempt to authenticate from UserId= , Password= 
